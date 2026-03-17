@@ -32,6 +32,8 @@ English version ⚪🔴
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<img src="https://github.com/EriveltonSchedule/Projeto-1/blob/master/06%20-%20exChatGptJS/ezgif.com-video-to-gif-converter.gif" align="right" width="300" height="300" />
+
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -40,4 +42,3 @@ English version ⚪🔴
   </picture>
 </div>
 
-<img src="" width="500" height="300" />
